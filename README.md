@@ -25,7 +25,7 @@ python regex.py
 fixfilename = False
 
 ```
-# To set the default filename:
+# To set the default filename ( make sure that fixfilename = True):
 
 `````bash
 
